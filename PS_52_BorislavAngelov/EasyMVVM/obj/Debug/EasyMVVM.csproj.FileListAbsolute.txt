@@ -1,0 +1,16 @@
+C:\Users\g\source\repos\PS_49_Georgi_Paytov\EasyMVVM\bin\Debug\EasyMVVM.exe.config
+C:\Users\g\source\repos\PS_49_Georgi_Paytov\EasyMVVM\bin\Debug\EasyMVVM.exe
+C:\Users\g\source\repos\PS_49_Georgi_Paytov\EasyMVVM\bin\Debug\EasyMVVM.pdb
+C:\Users\g\source\repos\PS_49_Georgi_Paytov\EasyMVVM\obj\Debug\EasyMVVM.csprojAssemblyReference.cache
+C:\Users\g\source\repos\PS_49_Georgi_Paytov\EasyMVVM\obj\Debug\MainWindow.g.cs
+C:\Users\g\source\repos\PS_49_Georgi_Paytov\EasyMVVM\obj\Debug\App.g.cs
+C:\Users\g\source\repos\PS_49_Georgi_Paytov\EasyMVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\g\source\repos\PS_49_Georgi_Paytov\EasyMVVM\obj\Debug\EasyMVVM_MarkupCompile.cache
+C:\Users\g\source\repos\PS_49_Georgi_Paytov\EasyMVVM\obj\Debug\EasyMVVM_MarkupCompile.lref
+C:\Users\g\source\repos\PS_49_Georgi_Paytov\EasyMVVM\obj\Debug\MainWindow.baml
+C:\Users\g\source\repos\PS_49_Georgi_Paytov\EasyMVVM\obj\Debug\EasyMVVM.g.resources
+C:\Users\g\source\repos\PS_49_Georgi_Paytov\EasyMVVM\obj\Debug\EasyMVVM.Properties.Resources.resources
+C:\Users\g\source\repos\PS_49_Georgi_Paytov\EasyMVVM\obj\Debug\EasyMVVM.csproj.GenerateResource.cache
+C:\Users\g\source\repos\PS_49_Georgi_Paytov\EasyMVVM\obj\Debug\EasyMVVM.csproj.CoreCompileInputs.cache
+C:\Users\g\source\repos\PS_49_Georgi_Paytov\EasyMVVM\obj\Debug\EasyMVVM.exe
+C:\Users\g\source\repos\PS_49_Georgi_Paytov\EasyMVVM\obj\Debug\EasyMVVM.pdb

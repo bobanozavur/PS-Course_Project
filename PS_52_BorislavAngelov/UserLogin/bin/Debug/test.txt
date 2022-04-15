@@ -1,0 +1,41 @@
+08-Mar-21 4:45:41 PM;Jerry;ADMIN;Успешен Login
+08-Mar-21 4:45:49 PM;Jerry;ADMIN;Промяна на роля на Berry
+08-Mar-21 4:46:00 PM;Jerry;ADMIN;Промяна на активност на Berry
+08-Mar-21 4:46:21 PM;Jerry;ADMIN;Успешен Login
+08-Mar-21 4:47:13 PM;Jerry;ADMIN;Успешен Login
+12-Mar-21 3:52:18 PM;Jerry;ADMIN;Успешен Login
+12-Mar-21 3:52:38 PM;Jerry;ADMIN;Промяна на активност на Berry
+12-Mar-21 3:59:02 PM;Jerry;ADMIN;Успешен Login
+12-Mar-21 3:59:35 PM;Jerry;ADMIN;Промяна на роля на Berry
+12-Mar-21 4:03:53 PM;Jerry;ADMIN;Успешен Login
+12-Mar-21 4:14:10 PM;Jerry;ADMIN;Успешен Login
+12-Mar-21 4:14:35 PM;Jerry;ADMIN;Промяна на роля на Berry
+12-Mar-21 4:15:01 PM;Jerry;ADMIN;Успешен Login
+12-Mar-21 4:36:45 PM;Jerry;ADMIN;Успешен Login
+12-Mar-21 4:37:04 PM;Jerry;ADMIN;Промяна на роля на Berry
+12-Mar-21 4:37:24 PM;Jerry;ADMIN;Промяна на активност на Berry
+12-Mar-21 5:05:18 PM;Jerry;ADMIN;Успешен Login
+14-Mar-21 8:27:16 PM;Jerry;ADMIN;Успешен Login
+14-Mar-21 8:31:59 PM;Jerry;ADMIN;Успешен Login
+18-Mar-21 10:46:16 PM;Jerry;ADMIN;Успешен Login
+19-Mar-21 4:48:00 PM;Jerry;ADMIN;Успешен Login
+22-Mar-21 6:04:18 PM;Jerry;ADMIN;Успешен Login
+22-Mar-21 6:28:54 PM;Jerry;ADMIN;Успешен Login
+22-Mar-21 6:29:46 PM;Jerry;ADMIN;Успешен Login
+22-Mar-21 6:30:01 PM;Jerry;ADMIN;Промяна на роля на Berry
+23-Apr-21 5:43:06 PM;Jerry;ADMIN;Успешен Login
+23-Apr-21 5:49:32 PM;Jerry;ADMIN;Успешен Login
+23-Apr-21 5:52:29 PM;Jerry;ADMIN;Успешен Login
+23-Apr-21 6:02:45 PM;Jerry;ADMIN;Успешен Login
+23-Apr-21 6:03:08 PM;Jerry;ADMIN;Промяна на активност на 2
+23-Apr-21 6:08:07 PM;Jerry;ADMIN;Успешен Login
+23-Apr-21 6:08:22 PM;Jerry;ADMIN;Промяна на роля на Garry
+23-Apr-21 6:08:31 PM;Jerry;ADMIN;Промяна на активност на Garry
+23-Apr-21 6:37:38 PM;Jerry;ADMIN;Успешен Login
+23-Apr-21 6:39:55 PM;Jerry;ADMIN;Успешен Login
+23-Apr-21 6:41:26 PM;Jerry;ADMIN;Промяна на роля на Garry
+23-Apr-21 6:41:41 PM;Jerry;ADMIN;Промяна на активност на Garry
+23-Apr-21 6:45:59 PM;Jerry;ADMIN;Успешен Login
+23-Apr-21 6:46:10 PM;Jerry;ADMIN;Промяна на роля на Garry
+14-May-21 8:40:09 PM;Jerry;ADMIN;Успешен Login
+14-May-21 8:40:24 PM;Jerry;ADMIN;Промяна на роля на Garry
